@@ -1,0 +1,48 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion project.ext.COMPILE_SDK_VERSION
+    buildToolsVersion project.ext.BUILD_TOOLS_VERSION
+
+
+
+    defaultConfig {
+        minSdkVersion project.ext.MIN_SDK_VERSION
+        targetSdkVersion project.ext.TARGET_SDK_VERSION
+        versionCode 1
+        versionName "1.0"
+
+
+    }
+    buildTypes {
+
+
+    }
+
+
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+    }
+    android {
+        lintOptions {
+            abortOnError false
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile "com.android.support:support-v4:$project.ext.androidSupport"
+    compile 'com.koushikdutta.ion:ion:2.1.9'
+
+
+    //compile ('commons-codec:commons-codec:1.6')
+    //compile ('bouncycastle:bcprov-jdk16:140')
+
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Connect_to_Google_Play">CgkI7NL49oQHEAIQCg</string>
+    <string name="Connect_to_Facebook">CgkI7NL49oQHEAIQCw</string>
+
+    <string name="See_u_again">CgkI7NL49oQHEAIQAQ</string>
+    <string name="Old_Friend">CgkI7NL49oQHEAIQAg</string>
+    <string name="OvOy_Fans">CgkI7NL49oQHEAIQAw</string>
+
+    <string name="Faithful_Reader_I">CgkI7NL49oQHEAIQBA</string>
+    <string name="Faithful_Reader_II">CgkI7NL49oQHEAIQBQ</string>
+    <string name="Faithful_Reader_III">CgkI7NL49oQHEAIQBg</string>
+
+    <string name="People_Person_I">CgkI7NL49oQHEAIQBw</string>
+    <string name="People_Person_II">CgkI7NL49oQHEAIQCA</string>
+    <string name="People_Person_III">CgkI7NL49oQHEAIQCQ</string>
+
+
+    <!--google login/people api-->
+    <string name="server_client_secret">WQyc-uY2mfCeNGjXpcEGQjTB</string>
+    <!--google game service api-->
+    <string name="game_service_app_id">241841351020</string>
+</resources>

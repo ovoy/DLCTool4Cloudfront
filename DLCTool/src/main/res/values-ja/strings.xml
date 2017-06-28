@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_message_title">壁紙設定のヒント！</string>
+
+    <!-- for campaign-->
+    <string name="campaign_feedback">このイベントがお気に入りか？</string>
+    <string name="comment_sent">ご返信ありがとうございます！</string>
+
+
+
+    <!-- UserFeedback -->
+    <string name="ET_feedback_hint">ご意見をお聞かせください</string>
+    <string name="TV_feedback_text">このメッセージの感覚では？</string>
+    <string name="btn_send">送信</string>
+
+
+
+
+</resources>

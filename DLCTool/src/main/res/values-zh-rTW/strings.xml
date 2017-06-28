@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_message_title">桌布設定小技巧！</string>
+
+    <!-- for campaign-->
+    <string name="campaign_feedback">喜歡這則訊息嗎?</string>
+    <string name="comment_sent">感謝您的回應喔!</string>
+
+    <!-- UserFeedback -->
+    <string name="ET_feedback_hint">請告訴我們您的想法</string>
+    <string name="TV_feedback_text">您覺得這個訊息如何?</string>
+    <string name="btn_send">送出</string>
+
+
+</resources>
